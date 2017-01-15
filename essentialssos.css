@@ -1,0 +1,59 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+
+
+
+.header_essentials {
+
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 30pt;
+
+}
+
+
+.header_10things {
+
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 23pt;
+
+}
+
+
+
+
+.header_sos {
+
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 23pt;
+
+}
+
+
+.section1 {
+  text-align: center;
+}
+
+
+.section2 {
+  text-align: center;
+  border-bottom: black 8px solid;
+  padding-bottom: 50px;
+}
+
+
+.section3 {
+
+  text-align: left;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 25pt;
+
+}

@@ -1,0 +1,46 @@
+
+
+h1, p {
+	text-align: center;
+}
+
+nav ul{
+
+	text-align: center;
+	padding: 20px 0;
+}
+
+nav li{
+
+	display: inline; /* to put everything in the same line */
+	padding: 100px 50px;
+}
+
+img{
+	height: 60%;
+	margin-top: 10px;
+	border-radius: 100%;
+
+
+}
+
+#img-top img {
+    display: block; /* to centralize img */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.content{
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-top: 50px;
+}
+
+.content p{
+	text-align: justify;
+}
+
+.pitch, a{
+	font-size: 20px;
+}
